@@ -1,0 +1,16 @@
+*.jar
+*.war
+*.ear
+_site/
+lib/
+tmp/
+precompiled/
+*.class
+.classpath
+.project
+eclipse/
+.settings/
+.DS_Store
+test-result/
+/bin
+db
